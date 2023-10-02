@@ -3,6 +3,7 @@
 # dependencies
 ./netflix-ui/node_modules/
 ./netflix-api/node_modules/
+./netflix-api/.env/
 /.pnp
 .pnp.js
 
